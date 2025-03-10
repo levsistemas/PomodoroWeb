@@ -45,7 +45,7 @@
 	}
 }
 
-@media (width < 1300px) {
+/* @media (width < 1300px) {
 	.state__container {
 		position: absolute;
 		top: 120%;
@@ -69,7 +69,7 @@
 		transform: translateY(-50%) translateX(-50%);
 		overflow: visible;
 	}
-}
+} */
 
 body {
 	background-color: var(--bg-color-main);
